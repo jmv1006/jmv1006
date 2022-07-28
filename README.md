@@ -1,5 +1,8 @@
-Hello! My name is Jonathan Andrade Valenzuela and I am currently self-teaching myself to program with a beginning emphasis on front-end development, with aspirations to eventually become a fullstack developer.
-I am currently working through The Odin Project as well as some side projects.
-My current focus is to build my knowledge through working on projects, big and small.
+Hello! My name is Jonathan Andrade Valenzuela.
+
+Aspiring Fullstack Developer
+
+Skills: HTML, CSS, Javascript, Typescript, Nodejs, Python, mySQL, MongoDB, Reactjs
+
 I am based in Southern California and can be reached at jonathanandradevalenzuela@gmail.com
 Feel free to connect with me!
