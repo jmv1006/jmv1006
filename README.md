@@ -1,8 +1,7 @@
 Hello! My name is Jonathan Andrade Valenzuela.
 
-Aspiring Fullstack Developer
+I will be studying CS through Oregon State University's online post-bacc program starting May 2023.
+I will be interning at The Home Depot in summer 2023!
 
-Skills: HTML, CSS, Javascript, Typescript, Nodejs, Python, mySQL, MongoDB, Reactjs
-
-I am based in Southern California and can be reached at jonathanandradevalenzuela@gmail.com
 Feel free to connect with me!
+E-mail: jonathanandradevalenzuela@gmail.com
